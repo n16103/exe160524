@@ -1,0 +1,10 @@
+[   28.266223] cfg80211:   (5030000 KHz - 5090000 KHz @ 40000 KHz), (N/A, 2300 mBm), (N/A)
+[   28.266227] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+[   28.266230] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+[   28.266233] cfg80211:   (5490000 KHz - 5710000 KHz @ 160000 KHz), (N/A, 2300 mBm), (0 s)
+[   28.266236] cfg80211:   (59000000 KHz - 66000000 KHz @ 2160000 KHz), (N/A, 1000 mBm), (N/A)
+[   31.293933] Bluetooth: RFCOMM TTY layer initialized
+[   31.293953] Bluetooth: RFCOMM socket layer initialized
+[   31.293968] Bluetooth: RFCOMM ver 1.11
+[ 1321.689983] perf interrupt took too long (2504 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
+[ 4779.855348] perf interrupt took too long (5004 > 5000), lowering kernel.perf_event_max_sample_rate to 25000
